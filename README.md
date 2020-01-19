@@ -1,3 +1,1 @@
-# Sathyabama-web-page
-This is a sample web page for sathyabama studen registration form done for Web designing workshop
-Taught by 3rdyear seniors
+This is a sample web page for sathyabama student registration form done for Web designing 2days workshop
